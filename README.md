@@ -1,2 +1,2 @@
 # first
-learning to code
+my first stumbaling attempts at learning to code.
